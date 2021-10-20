@@ -4,6 +4,8 @@
 
 This program is a simple assembler that assembles Z80 assembly to Z80 object code.
 
+**NOTE: This assembler is not a complete assembler, it only supports main instructions, extended instructions and bit instructions. It doesn't support IX/IY instructions!**
+
 ## Set-up
 
 ### Prerequisites
